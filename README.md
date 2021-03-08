@@ -1,8 +1,10 @@
 # Next Starter Kit
 
-<img alt="Logo" align="right" src="./public/img/logo.png" width="20%" />
+<img alt="Logo" align="right" src="./public/img/logo.png" width="10%" />
 
-A boilerplate for bootstrapping new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library.
+A boilerplate for creating new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library. Bootstrapped with [create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
+<br>
+<br>
 
 ## Quick Overview
 
@@ -18,40 +20,40 @@ It will create a new directory inside the current folder.<br>
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
-📦next-starter-kit
- ┣ 📂__tests__
- ┃ ┣ 📂components
- ┃ ┃ ┣ 📂__snapshots__
- ┃ ┃ ┗ 📜layout.test.tsx
- ┃ ┗ 📂pages
- ┃ ┃ ┣ 📂__snapshots__
- ┃ ┃ ┗ 📜index.test.tsx
- ┣ 📂public
- ┃ ┣ 📂fonts
- ┃ ┃ ┣ 📂basier-circle
- ┃ ┣ 📂img
- ┃ ┃ ┣ 📜logo.png
- ┃ ┃ ┗ 📜screenshot.jpg
- ┣ 📂src
- ┃ ┣ 📂components
- ┃ ┃ ┗ 📜Layout.tsx
- ┃ ┣ 📂pages
- ┃ ┃ ┣ 📜_app.tsx
- ┃ ┃ ┗ 📜index.tsx
- ┃ ┗ 📂styles
- ┃ ┃ ┗ 📜tailwind.css
- ┣ 📜.babelrc
- ┣ 📜.eslintrc.json
- ┣ 📜.gitignore
- ┣ 📜.prettierrc
- ┣ 📜README.md
- ┣ 📜jest.config.js
- ┣ 📜next-env.d.ts
- ┣ 📜package.json
- ┣ 📜postcss.config.js
- ┣ 📜tailwind.config.js
- ┣ 📜tsconfig.json
- ┗ 📜yarn.lock
+next-starter-kit
+ ┣ __tests__
+ ┃ ┣ components
+ ┃ ┃ ┣ __snapshots__
+ ┃ ┃ ┗ layout.test.tsx
+ ┃ ┗ pages
+ ┃ ┃ ┣ __snapshots__
+ ┃ ┃ ┗ index.test.tsx
+ ┣ public
+ ┃ ┣ fonts
+ ┃ ┃ ┣ basier-circle
+ ┃ ┣ img
+ ┃ ┃ ┣ logo.png
+ ┃ ┃ ┗ screenshot.jpg
+ ┣ src
+ ┃ ┣ components
+ ┃ ┃ ┗ Layout.tsx
+ ┃ ┣ pages
+ ┃ ┃ ┣ _app.tsx
+ ┃ ┃ ┗ index.tsx
+ ┃ ┗ styles
+ ┃ ┃ ┗ tailwind.css
+ ┣ .babelrc
+ ┣ .eslintrc.json
+ ┣ .gitignore
+ ┣ .prettierrc
+ ┣ README.md
+ ┣ jest.config.js
+ ┣ next-env.d.ts
+ ┣ package.json
+ ┣ postcss.config.js
+ ┣ tailwind.config.js
+ ┣ tsconfig.json
+ ┗ yarn.lock
 ```
 
 Once the installation is done, you can open your project folder:
@@ -70,6 +72,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <p align='center'>
   <img alt="Screenshot" src="./public/img/screenshot.jpg" width='600' style="border-radius:8px" />
 </p>
+<br>
 
 ### `yarn build`
 
