@@ -2,7 +2,7 @@
 
 <img alt="Logo" align="right" src="./public/img/logo.png" width="10%" />
 
-A boilerplate for creating new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library. Bootstrapped with [create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
+A boilerplate for creating new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React Testing Library. Bootstrapped with [create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
 <br>
 <br>
 
@@ -130,9 +130,8 @@ To learn more, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial
 - [TypeScript](https://www.typescriptlang.org/) - learn about TypeScript
-- [Tailwind CSS](https://tailwindcss.com/) - learn about Tailwind, the utility-first CSS framework
+- [Tailwind CSS](https://tailwindcss.com/) - learn about the utility-first CSS framework Tailwind
 - [Jest](https://jestjs.io/) - learn about Jest, the JavaScript Testing Framework
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - learn about testing React components with React Testing Library
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - learn about testing React components with React Testing Library
 - [ESLint](https://eslint.org/) - learn about analyzing code with ESLint
 - [Prettier](https://eslint.org/) - learn about formatting code with Prettier
