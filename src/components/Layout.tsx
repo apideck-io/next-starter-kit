@@ -14,7 +14,7 @@ const Layout = ({
   description = 'A Next.js starter kit with TypeScript, Tailwind, Jest, Prettier, and Eslint',
   favicon = '/img/logo.png'
 }: Props) => (
-  <div>
+  <div className="font-basier-circle">
     <Head>
       <title>{title}</title>
       <meta name="description" content={description}></meta>
