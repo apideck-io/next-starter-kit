@@ -1,5 +1,5 @@
-import { NextPage } from 'next'
 import Layout from '../components/Layout'
+import { NextPage } from 'next'
 
 const IndexPage: NextPage = () => (
   <Layout title="Home | Next Starter Kit">
@@ -11,7 +11,7 @@ const IndexPage: NextPage = () => (
           <div className="mt-2">
             <p className="text-gray-500">
               Welcome to the{' '}
-              <a className="font-semibold hover:text-indigo-500" href="https://www.apideck.com">
+              <a className="font-semibold hover:text-primary-500" href="https://www.apideck.com">
                 Apideck
               </a>{' '}
               boilerplate for building React applications with Next.js, TypeScript, and Tailwind
