@@ -15,7 +15,7 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
-    "@apideck/components": "^0.7.3",
+    "@apideck/components": "^0.8.6",
     "@headlessui/react": "^1.4.3",
     "next": "^12.1.0",
     "react": "^17.0.2",
