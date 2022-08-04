@@ -27,7 +27,7 @@ const IndexPage: NextPage = () => {
                 addToast({
                   title: 'Hello world!',
                   description: (
-                    <p>
+                    <>
                       {`Let's start coding! Visit the component library documentation`}{' '}
                       <a
                         href="https://developers.apideck.com/components"
@@ -38,7 +38,7 @@ const IndexPage: NextPage = () => {
                         here
                       </a>
                       .
-                    </p>
+                    </>
                   )
                 })
               }
